@@ -4,6 +4,7 @@ const content = require('../data')
 const app = express()
 const router = express.Router()
 
+
 router.get(`/:page`, (req, res)=> {
     try {
         if(content && content[req.params.page]) {

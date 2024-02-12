@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "start": "netlify dev",
-    "build": "netlify deploy --prod",
+    "deploy": "netlify deploy --prod --auth $NETLIFY_AUTH_TOKEN",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bivek",
