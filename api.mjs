@@ -1,5 +1,4 @@
 import express, {Router} from 'express'
-import serverless from "serverless-http";
 
 const app = express()
 const router = Router()
@@ -10,6 +9,4 @@ app.get('/', (req, res) => {
 //     res.json({message: 'This is homepage'})
 // })
 
-application.use('/', router)
-
-export const handler = serverless(api)
+app.use('/', router)
