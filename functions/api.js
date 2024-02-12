@@ -1,9 +1,11 @@
 const express =  require('express')
 const serverless =  require('serverless-http')
+const cors = require('cors')
 const content = require('../data')
 const app = express()
 const router = express.Router()
 
+app.use(cors())
 
 router.get(`/:page`, (req, res)=> {
     try {
