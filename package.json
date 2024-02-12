@@ -5,6 +5,7 @@
   "main": "api.mjs",
   "scripts": {
     "start": "nodemon api.mjs",
+    "server": "node api.mjs",
     "build": "npm install && npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
