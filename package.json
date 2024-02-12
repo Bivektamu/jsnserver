@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "build": "npm install && npm run server",
+    "start": "netlify dev",
+    "build": "netlify deploy --prod",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bivek",
