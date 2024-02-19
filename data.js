@@ -1129,13 +1129,7 @@ module.exports = {
       imgSrc: "/images/story/anthony.jpg",
       richText: `
         <p>
-        “Our years of experience in development aligned with our in-house capability
-        & resources enables us to deliver projects with maximum returns”
-        </p>
-        <br />
-        <p>
-        “Our years of experience in development aligned with our in-house capability
-        & resources enables us to deliver projects with maximum returns”
+        Crafting iconic buildings of unmatched quality allows us to experience the epitome of living our best.
         </p>
       `,
       name: "Anthony Andreatta",
