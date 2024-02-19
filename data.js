@@ -1121,18 +1121,8 @@ module.exports = {
       title:
         "End-to-end expertise, knowledge and in-house resources in all aspects of Property Development",
       richText: `
-          <p>This is simply dummy text of the printing and typesetting industry. Lorem
-          Ipsum has been the industry's standard dummy text ever since the 1500s,
-          when an unknown printer took a galley of type and scrambled it to make a type
-          specimen book.</p>
-          <br />
-          <p>
-          It has survived not only five centuries, but also the leap into electronic
-          typesetting, remaining essentially unchanged.</p>
-          <br />
-          <p>It was popularised in the 1960s with the release of Letraset sheets containing
-          Lorem Ipsum passages, and more recently with desktop publishing software
-          like Aldus PageMaker including versions of Lorem Ipsum</p>
+          <p>LApropertyCo is dedicated to excellence, focussed on creating finely designed spaces in prime locations. Founded by Anthony Andreatta, a visionary in real estate development, our mission is to identify, create, and deliver the finest signature homes and buildings, offering world-class living experiences.</p>
+
         `,
     },
     testimonial: {
@@ -1151,18 +1141,11 @@ module.exports = {
       name: "Anthony Andreatta",
       role: "Managing Director",
     },
-    history: {
+    heritage: {
       title:
         "End-to-end expertise, knowledge and in-house resources in all aspects of Property Development",
       richText: `
-          <p>This is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-          industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
-          of type and scrambled it to make a type specimen book.</p><br />
-          <p>It has survived not only five centuries, but also the leap into electronic typesetting,
-          remaining essentially unchanged.</p><br />
-          <p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum
-          passages, and more recently with desktop publishing software like Aldus PageMaker
-          including versions of Lorem Ipsum</p>
+      <p>Over two decades, delivering projects throughout Sydney, each endeavour by LApropertyCo is meticulously curated and executed in collaboration with partners. The portfolio spans from luxury apartments to bespoke housing and high-class mixed-use precincts. Each building stands out as an icon, marked by beautiful design and unique craftsmanship, complemented by contemporary furnishings. The continuous effort is to surpass conventional norms and set new standards for living, ensuring each space delivered embodies luxury and the highest quality.</p>
       `,
       timeline: [
         {
