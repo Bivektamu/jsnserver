@@ -1168,4 +1168,10 @@ module.exports = {
       ],
     },
   },
+  privacy: {
+    richText: `<p>This is a test for privacy policy api</p>`
+  },
+  disclaimer: {
+    richText: `<p>This is a test for disclaimer api</p>`
+  }
 };
